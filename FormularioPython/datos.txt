@@ -1,0 +1,14 @@
+Nombres: Eduardo
+Apellidos: Maga
+Edad: 15 anos
+Estatura: 123 cm
+Telefono: 1332535
+Genero: Hombre
+
+Nombres: eduardo
+Apellidos: mag
+Edad: 19 anos
+Estatura: 313 cm
+Telefono: 238992183
+Genero: Hombre
+
